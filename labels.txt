@@ -1,0 +1,11 @@
+0 Coal-Ash_Corrosion (FC-CA)
+1 Dissimilar_Metal_Weld (SR-DM)
+2 Erosion_Damage
+3 Fireside_Corrosion
+4 Fly_Ash_Erosion (ER-FA)
+5 Long_Term_Overheat_Damage
+6 Long_Term_Overheating (SR-LT)
+7 Oxygen_Corrosion
+8 Short_Term_Overheat_Damage
+9 Soot_Blower_Erosion (ER-SB)
+10 Welding_Defects
